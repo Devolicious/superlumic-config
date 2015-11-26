@@ -23,6 +23,9 @@
         - sequel-pro
         - vagrant
         - virtualbox
+        - firefox
+        - firefoxdeveloperedition
+        - google-chrome
     - name: create ssh directory
       become: yes
       file:
