@@ -65,6 +65,7 @@
     - computername: BigDaddy
     - git_user_name: Ruud Denivel
     - git_user_email: ruud.denivel@kunstmaan.be
+    - php_version: 55
     - sublime_packages:
         - dest: "SideBarEnhancements"
           repo: "https://github.com/titoBouzout/SideBarEnhancements"
